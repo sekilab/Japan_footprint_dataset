@@ -21,7 +21,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 For any question and support, please create an issue on GitHub or write to the author here:
 
-Ashutosh Kumar  - ashutosh[at]iis.u-tokyo.ac.jp
+Shenglong Chen  - chen-sl[at]csis.u-tokyo.ac.jp
 
 
 
