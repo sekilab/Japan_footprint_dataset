@@ -6,6 +6,8 @@ The Japan Footprint Dataset comprises approximately 50 million building footprin
 ![Image text](https://github.com/sekilab/Japan_footprint_dataset/blob/master/Image/Example.png)
 
 
+## Download dataset
+To be updated soon!
 
 <!-- LICENSE -->
 ## License
