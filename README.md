@@ -1,6 +1,6 @@
 # Japan footprint dataset
 
-The Japan Footprint Dataset comprises approximately 50 million building footprints located within Japan extracted from Mapbox satellite imagery（0.6m resolution) through the utilization of instance segmentation methods
+The Japan Footprint Dataset comprises approximately 50 million building footprints located within Japan extracted from Mapbox satellite imagery（0.6m resolution) through the utilization of a super-resolution-based instance segmentation method. Extracted models and training details can be found in [this paper](https://www.sciencedirect.com/science/article/pii/S0924271622002933).
 
 ![Image text](https://github.com/sekilab/Japan_footprint_dataset/blob/master/Image/Building_count.png)
 
@@ -8,6 +8,7 @@ The Japan Footprint Dataset comprises approximately 50 million building footprin
 
 
 ## Download dataset
+For ease of extraction, the whole of Japan is divided into 4424 10km by 10km grids, and a geojson file exists for each region containing buildings.
 To be updated soon!
 
 <!-- LICENSE -->
