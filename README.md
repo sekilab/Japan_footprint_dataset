@@ -8,10 +8,10 @@ The Japan Footprint Dataset comprises approximately 50 million building footprin
 
 
 ## Download dataset
-For ease of extraction, the whole of Japan is divided into 4424 10km by 10km grids, and a geojson file exists for each region containing buildings.
+For ease of extraction, the whole of Japan is divided into 4424 10km by 10km grids, and a geojson file exists for each region containing buildings. The number of each folder corresponds to the [Japanese secondary standard mesh](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjq0L7vxPeDAxVAmlYBHRgRBcEQFnoECBIQAQ&url=https%3A%2F%2Fwww.gsi.go.jp%2Fcommon%2F000218188.pdf&usg=AOvVaw21NZvHJVipnWzBngY28Cl0&opi=89978449).
 
-Download link: 
-To be updated soon!
+Download link: s3://sekilab-public-data/Building_footprint_Japan/
+
 
 <!-- LICENSE -->
 ## License
